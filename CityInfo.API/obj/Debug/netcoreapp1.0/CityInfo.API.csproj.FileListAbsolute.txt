@@ -1,0 +1,9 @@
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.deps.json
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.json
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.dev.json
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.dll
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.pdb
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.csprojResolveAssemblyReference.cache
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.AssemblyInfo.cs
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.dll
+D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.pdb
