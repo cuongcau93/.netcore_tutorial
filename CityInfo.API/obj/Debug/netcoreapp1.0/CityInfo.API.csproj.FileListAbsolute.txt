@@ -7,3 +7,12 @@ D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityI
 D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.AssemblyInfo.cs
 D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.dll
 D:\asp.net\city\2-asp-dotnet-core-api-building-first-m2-exercise-files\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.pdb
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.deps.json
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.json
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.dev.json
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.dll
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.pdb
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.dll
+C:\Users\123\Documents\GitHub\.netcore_tutorial\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.pdb

@@ -9418,10 +9418,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net\\city\\2-asp-dotnet-core-api-building-first-m2-exercise-files\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
+      "projectUniqueName": "C:\\Users\\123\\Documents\\GitHub\\.netcore_tutorial\\CityInfo.API\\CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "D:\\asp.net\\city\\2-asp-dotnet-core-api-building-first-m2-exercise-files\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
-      "outputPath": "D:\\asp.net\\city\\2-asp-dotnet-core-api-building-first-m2-exercise-files\\end\\CityInfo\\src\\CityInfo.API\\obj\\",
+      "projectPath": "C:\\Users\\123\\Documents\\GitHub\\.netcore_tutorial\\CityInfo.API\\CityInfo.API.csproj",
+      "outputPath": "C:\\Users\\123\\Documents\\GitHub\\.netcore_tutorial\\CityInfo.API\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
